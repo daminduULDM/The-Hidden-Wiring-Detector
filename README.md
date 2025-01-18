@@ -1,4 +1,4 @@
-# The-Hidden-Wiring-Detector
+# The Hidden Wiring Detector
 
 Developed a device to detect hidden electrical wiring and live wires behind walls and surfaces.
 Designed an efficient circuit using transistors, a coil, and an LED indicator for wire detection.
